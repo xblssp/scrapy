@@ -2,7 +2,7 @@
 详情请参考我的博客：
 http://bbiao.me/爬取糗事百科/
 
-mmjpg.py是一个爬取http://www.mmjpg.com的爬虫
+mmjpg.py是一个爬虫程序爬取 http://www.mmjpg.com
 代码中已经加入了详细的注释.
 当然如果你还有什么不懂的，欢迎来我的博客留言：
 http://bbiao.me
